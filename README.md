@@ -7,7 +7,7 @@
 
 # ROBO FRIENDS - APP
 
-👉 Robo Friends App 🤖 build using ReactJS which contains random Robo Cards containing user's data & images fetch through JSONPlaceholder API & RoboHash image generator and have search functionality to search the cards.
+👉 Robo Friends App 🤖 build using ReactJS which displays random Robo Cards containing user's data & images fetch through JSONPlaceholder API & RoboHash image generator and have search functionality to search the cards.
 I have used Cufon Fonts for logo which gives a robotic look to it. It is build fully responsive to support mobiles and tabs viewport.
 
 
